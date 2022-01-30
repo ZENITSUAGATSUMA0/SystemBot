@@ -66,7 +66,7 @@ module.exports = {
 ## Invite link | رابط دعوة البوت
 
 - Change `BOT_ID` to your client id | إلى اي دي بوتك `BOT_ID` قم بتغيير
-- `https://discord.com/oauth2/authorize?client_id=`BOT_ID`&permissions=8&scope=bot&application.commands`
+- `https://discord.com/oauth2/authorize?client_id=BOT_ID&permissions=8&scope=bot%20applications.commands`
 
 ---
 
