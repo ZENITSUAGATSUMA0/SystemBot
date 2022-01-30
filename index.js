@@ -5,7 +5,6 @@ const intents = new Discord.Intents(32767);
 const client = new Discord.Client({ intents });
 const config = require('./src/config');
 const mongoose = require('mongoose')
-const pretty = require('prettier')
 //----------------------------------------Client Functions----------------------------------------\\ Layer Coding : !                  Marquis#9999
 
 client.commands = new Discord.Collection()
