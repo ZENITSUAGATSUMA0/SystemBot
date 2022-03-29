@@ -1,8 +1,8 @@
-# [LayerCoding system bot | بوت سستم لاير كودنق](https://discord.gg/RjNPebdKNr)
+# [v13 System bot](https://discord.gg/RjNPebdKNr)
 
 A Discord.js system bot that will complete all of your server requirements.
 
-## Features | الملامح
+## Features | مميزات
 
 - Build on `Discord.js v13`
 - Easy to use and customize
